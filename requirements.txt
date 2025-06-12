@@ -1,0 +1,7 @@
+streamlit
+streamlit-authenticator
+python-dotenv
+pandas
+python-docx
+pyyaml
+openpyxl
